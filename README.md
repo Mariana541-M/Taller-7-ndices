@@ -15,4 +15,5 @@ Como analista cuantitativa, me encargué del análisis de los resultados cuantit
 
 5. Especialista en visualización y comunicación: Holman Camilo Ospina
 
+Como especialista en visualización y comunicación, me encargué de los gráficos y de la narrativa visual del análisis. Elaboré los diagramas de cajas y bigotes, los histogramas y el gráfico de los índices en base 100 para comparar la dispersión, los valores extremos y el desempeño acumulado de los tres sectores (hojas 2.3, 2.4 y 2.5). También construí los gráficos de barras de 2015 frente a 2025 con sus intervalos de confianza (hoja 3.3). Mi objetivo fue que los gráficos usaran escalas comparables y títulos claros, y que mostraran la evidencia en la que se apoya la recomendación presentada al fondo.
 
