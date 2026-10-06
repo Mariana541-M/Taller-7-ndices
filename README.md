@@ -11,7 +11,11 @@ Como especialista en datos y reproducibilidad, me encargué de obtener, organiza
 
 4. Analista cuantitativo: Mariana Muñoz Gamboa
 
-Como analista cuantitativa, me encargué del análisis de los resultados cuantitativos, mediante el uso de desviaciones estándar, intervalos de confianza y número de observaciones, además de esto revisé la consistencia de las fórmulas y de los gráficos realizados con base a esto. Estos aportes pueden verificarse en las hojas 2.3, 3.2 y 3.4, donde realicé algunos gráficos y realicé las fórmulas necesarias.
+Como analista cuantitativa, me encargué del análisis de los resultados cuantitativos, mediante el uso de desviaciones estándar, intervalos de confianza y número de observaciones. Además, revisé la consistencia de las fórmulas y de los gráficos realizados con base en esto, verificando que las referencias entre celdas fueran correctas y que los resultados reflejaran adecuadamente los datos originales.
+
+Mi trabajo consistió en calcular los estadísticos descriptivos de cada conjunto de datos, lo que permitió comparar la variabilidad entre las mediciones y evaluar la confiabilidad de los resultados. A partir de las desviaciones estándar y del número de observaciones, construí los intervalos de confianza, que facilitaron la interpretación de la precisión de las estimaciones y la identificación de diferencias entre grupos o condiciones. También elaboré gráficos que representan de forma clara estos resultados, incluyendo barras de error cuando fue pertinente, para que la información fuera más fácil de interpretar.
+
+Asimismo, apoyé al equipo en la detección y corrección de errores en fórmulas y en la presentación de los datos, con el fin de asegurar que el análisis fuera coherente, reproducible y consistente a lo largo de todo el trabajo. Estos aportes pueden verificarse en las hojas 2.3, 3.2 y 3.4, donde realicé algunos gráficos y desarrollé las fórmulas necesarias.
 
 5. Especialista en visualización y comunicación: Holman Camilo Ospina
 
